@@ -59,7 +59,7 @@ pip install re
 
 We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
 
-# Project Screenshots
+<h5>Project Screenshots</h5>
 
 
 ![results](https://github.com/Karanraj-6/Fake_news_detection/blob/main/images/Screenshot%202024-08-10%20223144.png)

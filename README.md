@@ -2,7 +2,7 @@
  
 # Fake News Detection Project
 
-<img src="D:\GitHub DESK\Fake_news_detection\images\fake_news_detection_through_machine_learning_ml_cd_slide01.jpg" alt="Fake-News-Detection" width="1280" height="320" />
+<img src="https://github.com/Karanraj-6/Fake_news_detection/blob/main/images/fake_news_detection_through_machine_learning_ml_cd_slide01.jpg" width="1280" height="320" />
 
 
 The project aims to develop a machine-learning model capable of identifying and classifying any news article as fake or not. The distribution of fake news can potentially have highly adverse effects on people and culture. This project involves building and training a model to classify news as fake news or not using a diverse dataset of news articles. We have used four techniques to determine the results of the model.
@@ -68,4 +68,4 @@ Once you are satisfied with the performance of a particular classifier, you can 
 ## Project Screenshots
 
 
-![results](D:\GitHub DESK\Fake_news_detection\images\Screenshot 2024-08-10 223144.png)
+![results](https://github.com/Karanraj-6/Fake_news_detection/blob/main/images/Screenshot%202024-08-10%20223144.png)

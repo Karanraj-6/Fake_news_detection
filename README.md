@@ -59,12 +59,7 @@ pip install re
 
 We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
 
-## Model Deployment
-
-Once you are satisfied with the performance of a particular classifier, you can deploy it in a real-world application or integrate it into a larger system for automatic fake news detection.
----
-
-## Project Screenshots
+# Project Screenshots
 
 
 ![results](https://github.com/Karanraj-6/Fake_news_detection/blob/main/images/Screenshot%202024-08-10%20223144.png)

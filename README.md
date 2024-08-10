@@ -1,6 +1,5 @@
 # Fake_news_detection
- 
-# Fake News Detection Project
+
 
 <img src="https://github.com/Karanraj-6/Fake_news_detection/blob/main/images/fake_news_detection_through_machine_learning_ml_cd_slide01.jpg" width="1280" height="320" />
 

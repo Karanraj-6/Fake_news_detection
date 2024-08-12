@@ -79,7 +79,7 @@ Before running the code, ensure the following libraries and packages are install
 | **Weighted Avg** | 1.00      | 1.00   | 1.00     | 8976    |
 
 
-## <h2>Classification Report of Random forest</h2>
+## <h4>Classification Report of Random forest</h4>
 
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|

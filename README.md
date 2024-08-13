@@ -110,4 +110,7 @@ The Gradient Boosting Classifier was selected as the final model due to its impr
 
 #### **Conclusion**
 
-The Gradient Boosting Classifier has proven to be highly effective for the fake news detection task, providing excellent results across all performance metrics. Its ability to handle complex patterns in the data and achieve perfect classification makes it a strong candidate for deployment in real-world applications to combat misinformation.
+#### **Conclusion**
+
+The <b>Gradient Boosting Classifier</b> has proven to be highly effective for the fake news detection task, providing excellent results across all performance metrics. Its ability to handle complex patterns in the data and achieve perfect classification makes it a strong candidate for deployment in real-world applications to combat misinformation.
+
